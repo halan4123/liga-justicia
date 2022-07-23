@@ -2,8 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-# Hola pull
-
-
-## Notas
-Pueden hacer lo que quieran...
+# Estos cambios son nuevos
